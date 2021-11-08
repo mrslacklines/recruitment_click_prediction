@@ -23,7 +23,7 @@ The training set consists of the following attributes:
 6. **Webpage Id** - refers to the webpage identifier
 7. **Product Category** – refers to the product category
 8. **Advertisement Size** – refers to the advertisement size
-9. **User Depth** - refers to user’s duration of exposure to the advertisement during the respective entry (3 being the longest, 1 being the shortest and NA being the inability to measure the time spent)
+9. **User Depth** - refers to user’s duration of exposure to the advertisement during the respective entry (`3` being the longest, `1` being the shortest and `NA` being the inability to measure the time spent)
 10. **Internet Browser Id** – refers to the identifier of the Internet browser type and version
 11. **Gender** – refers to the gender
 12. **Age Group** – refers to the age group
