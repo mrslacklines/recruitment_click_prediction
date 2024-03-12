@@ -1,4 +1,4 @@
-# Nordcloud Machine Learning Engineer recruitment excercise solution
+# Machine Learning Engineer recruitment excercise solution
 This repository contains an attempt at solving the Nordcloud Machine Learning recruitment task. The description of the task was provided as specified in the following sections. This repository contains both the CSV file with prediction results for the test dataset (unseen data), as well as a Jupyter Notebook where the full code and a detailed description of the reasoning is provided.  
 
 ## Problem Statement
